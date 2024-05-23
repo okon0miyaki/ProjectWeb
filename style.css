@@ -1,0 +1,22 @@
+
+.navbar{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 10px;
+    color: #00f;
+}
+
+.page1 {
+    width: 1000px; 
+    height: 700px;
+}
+
+.page2 {
+    width: 1000px; 
+    height: 700px;
+}
+
+.page3 {
+    width: 1000px; 
+    height: 700px;
+}
